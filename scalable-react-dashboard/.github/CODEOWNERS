@@ -1,0 +1,4 @@
+# Replace this example team with a real GitHub team before enabling protection.
+* @your-org/frontend-platform
+/src/entities/project/ @your-org/project-experience
+/.github/ @your-org/developer-experience
